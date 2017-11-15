@@ -181,8 +181,7 @@ public class HtmlUtil {
 	}
 
 	/**
-	 * Replaces all Microsoft&reg; Word Unicode characters with plain HTML
-	 * entities or characters.
+	 * Replaces several Windows-1252 characters
 	 *
 	 * @param      text the text
 	 * @return     the converted text, or <code>null</code> if the text is
